@@ -7,3 +7,6 @@ const aluno = {
 //J - Java
 //S - Script
 //O - Object
+//N- Notation
+
+console.log(aluno);
